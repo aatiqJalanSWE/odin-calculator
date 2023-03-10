@@ -73,7 +73,8 @@ function handleOperator(op) {
     currentValue = "";
 }
 
-//main logic of calculator
+//main logic of calcutor
+
 function calculate() {
     previousValue = Number(previousValue);
     currentValue = Number(currentValue);
